@@ -1,5 +1,5 @@
 # ahk_WAN_Getter
-# SCRIPT NAME: wan_ip_address_getter_v6.ahk
+# wan_ip_address_getter_v6.ahk
 # Author: Timothy Richardson 10/1/2016
 
 This is an AHK script that records the DHCP WAN IP address on my office public gateway. I needed a way to see my WAN IP address available when I travel, so I can remote into my server in my office and I don't want a static IP address. The solution is here. When the IP address is copied to the txt file, it is saved to my Dropbox account, so I  can get it remotely. Below are main comments in the script.
